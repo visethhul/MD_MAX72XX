@@ -6,6 +6,7 @@ In this scenario, it is convenient to abstract out the concept of the hardware d
 
 The library still retains flexibility for device level control, should the developer require, through the use of overloaded class methods.
 
-If you like and use this library please consider making a small donation using [PayPal](https://paypal.me/MajicDesigns/4USD)
+If you like and use this library please consider making a small donation using
 
 [Library Documentation](https://majicdesigns.github.io/MD_MAX72XX/)
+learning more arduino or rasbery pi goto https://imtalking.org
